@@ -1,0 +1,14 @@
+### IntelliJ IDEA ###
+*.idea
+*.iws
+*.iml
+*.ipr
+
+Tasks_1/out
+Tasks_2/out
+
+### Reports ###
+*.docx
+
+### Another topic ###
+Lab_1/
